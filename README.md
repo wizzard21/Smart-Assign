@@ -1,4 +1,5 @@
 # SmartAssign
+![alt text](https://github.com/wizzard21/Smart-Assign/blob/main/Screenshots/home.png)
 
 ## Description
 
